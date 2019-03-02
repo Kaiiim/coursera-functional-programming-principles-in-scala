@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mAnagramsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: abcd[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: Robert[0m[0m
+[0m[[0minfo[0m] [0m[32m- sentenceOccurrences: abcd e[0m[0m
+[0m[[0minfo[0m] [0m[33m- dictionaryByOccurrences.get: eat !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- word anagrams: married !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- word anagrams: player !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- subtract: lard - r !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- combinations: [] !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- combinations: abba !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- sentence anagrams: [] !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- sentence anagrams: Linux rulez !!! IGNORED !!![0m[0m
