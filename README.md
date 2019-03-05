@@ -1,4 +1,4 @@
-# Projets Du Mooc de coursera.
+# Projets du Mooc de coursera - Functional Programming Principles in Scala
 
 Forcomp : Réalisation d'un algorithme qui analyse un fichier qui servira de dictionnaire pour trouver les anagrammes.         
 Patmat : Réalisation de l'algorithme de compression de données sans perte (codage de Huffman).                                 
